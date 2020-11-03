@@ -40,5 +40,12 @@ def add(num01,num02,num03):
 add(9,4,2)
 # 5　正解！！
 
+#回答編 divじゃなくてもOK
+def div(num01,num02,num03):
+    return (num01 + num02 + num03)/3
+div_result=div(9,4,2)
+print(div_result)
+# 5　正解！！
+
 
 
